@@ -11,6 +11,7 @@ namespace IndianStatesCensusAnalyser
         static void Main(string[] args)
         {
             Console.WriteLine("=-=-=-=-=-=-=-=Welcome To The Indian State Census Analyser Problem=-=-=-=-=-=-=-=");
+            Console.ReadLine();
         }
     }
 }
